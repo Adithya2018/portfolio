@@ -1,0 +1,4 @@
+*.csv
+database.txt
+venv/
+__pycache__
